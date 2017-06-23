@@ -1,4 +1,4 @@
-## Install tensorflow with gpu in windows 10
+# Install tensorflow with gpu in windows 10
 
 ## Requirements
 
@@ -11,12 +11,12 @@ You need to install Cuda Toolkit 8.0 and cuDNN v5.1 as the GPU version works bes
 
 
 
-###Download and install CUDA Toolkit
+### Download and install CUDA Toolkit
 
 Toolkit version 8.0 or above: https://developer.nvidia.com/cuda-downloads
 Example installation directory: `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0`
 
-###Download and install cuDNN
+### Download and install cuDNN
 
 cuDNN version 5.1 library for Windows 10: https://developer.nvidia.com/cudnn
 You would need to signup at Nvidia in order to download these files. Now extract the cuDNN files into your Toolkit directory.
@@ -65,7 +65,7 @@ Now lets test if it is using GPU…
 
 `activate tensorflow-gpu`
 
-###Test GPU
+### Test GPU
 
 Enter into python shell
 
