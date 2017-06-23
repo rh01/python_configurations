@@ -10,8 +10,7 @@ This repository aim at setting my laptop computer with windows 10 system. mainly
 
 ## Credit
 
-Credit by ![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)]()
-
+Credit by ![](https://img.shields.io/packagist/l/doctrine/orm.svg)
 
 
 
