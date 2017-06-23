@@ -69,9 +69,9 @@ Now lets test if it is using GPU…
 
 Enter into python shell
 
-```python 
-python
-import tensorflow as tf```
+`python`
+
+`import tensorflow as tf`
 
 ![](https://ooo.0o0.ooo/2017/06/24/594dd238eb3e4.png)
 
