@@ -14,11 +14,17 @@ You need to install Cuda Toolkit 8.0 and cuDNN v5.1 as the GPU version works bes
 ### Download and install CUDA Toolkit
 
 Toolkit version 8.0 or above: https://developer.nvidia.com/cuda-downloads
+
+![](https://ooo.0o0.ooo/2017/06/26/59508e1f45633.png)
+
 Example installation directory: `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0`
 
 ### Download and install cuDNN
 
 cuDNN version 5.1 library for Windows 10: https://developer.nvidia.com/cudnn
+
+![](https://ooo.0o0.ooo/2017/06/26/59508de8afd9a.png)
+
 You would need to signup at Nvidia in order to download these files. Now extract the cuDNN files into your Toolkit directory.
 
 ![](https://ooo.0o0.ooo/2017/06/24/594dd1ea6ab0a.jpg)
@@ -69,9 +75,11 @@ Now lets test if it is using GPU…
 
 Enter into python shell
 
-`python`
+```bash
+python
+```
 
-`import tensorflow as tf`
+
 
 ![](https://ooo.0o0.ooo/2017/06/24/594dd238eb3e4.png)
 
