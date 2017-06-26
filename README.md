@@ -8,9 +8,9 @@ This repository aim at setting my laptop computer with windows 10 system. mainly
 
 接下来将不定期更新该版本库，并将提供一些关键的软件和文档。
 
-## Credit
+## License
 
-Credit by ![](https://img.shields.io/packagist/l/doctrine/orm.svg)
+ ![](https://img.shields.io/packagist/l/doctrine/orm.svg)
 
 
 
