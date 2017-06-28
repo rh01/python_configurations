@@ -43,7 +43,11 @@ It's ok!
 
 2. Create New Dir `C:\Program Files\MongoDB\Server\3.4\data\log`, and move it, and touch new file `mongo.log`
 
-3. Open Terminal, Enter: `.\mongod.exe --bind_ip 0.0.0.0 --logpath 'C:\Program Files\MongoDB\Server\3.4\data\log\mongo.log' --logappend --dbpath 'C:\Program Files\MongoDB\Server\3.4\data\db' --install`
+3. Open Terminal, Enter: 
+
+```shell
+.\mongod.exe --bind_ip 0.0.0.0 --logpath 'C:\Program Files\MongoDB\Server\3.4\data\log\mongo.log' --logappend --dbpath 'C:\Program Files\MongoDB\Server\3.4\data\db' --install
+```
 
 4. `Win + X` -- `计算机管理` 
 
@@ -54,5 +58,7 @@ It's ok!
 
 ![](https://ooo.0o0.ooo/2017/06/28/5953b9cb6ed9d.png)
 
+## License
 
+![](https://img.shields.io/github/license/mashape/apistatus.svg)
 
