@@ -60,9 +60,7 @@ It's ok!
 
 ## Tools
 
-[robomongo](https://robomongo.org/download)
-
-![](https://ooo.0o0.ooo/2017/06/29/59547baf29c45.png)
+[![](https://ooo.0o0.ooo/2017/06/29/59547baf29c45.png)](https://robomongo.org/download)
 
 ## License
 
